@@ -27,7 +27,7 @@
             #binding-cells = <0>;
             bindings
                 = <&macro_press &kp LALT>
-                , <&macro_tap &kp 1 &kp 3 &kp 0>
+                , <&macro_tap &kp KP_N1 &kp KP_N3 &kp KP_N0>
                 , <&macro_release &kp LALT>
                 ;
         };
@@ -36,7 +36,7 @@
             #binding-cells = <0>;
             bindings
                 = <&macro_press &kp LALT>
-                , <&macro_tap &kp 1 &kp 3 &kp 8>
+                , <&macro_tap &kp KP_N1 &kp KP_N3 &kp KP_N8>
                 , <&macro_release &kp LALT>
                 ;
         };
@@ -45,7 +45,7 @@
             #binding-cells = <0>;
             bindings
                 = <&macro_press &kp LALT>
-                , <&macro_tap &kp 1 &kp 3 &kp 3>
+                , <&macro_tap &kp KP_N1 &kp KP_N3 &kp KP_N3>
                 , <&macro_release &kp LALT>
                 ;
         };
