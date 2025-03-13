@@ -101,7 +101,7 @@
            &kp GRAVE   &kp LBKT   &kp LBRC   &kp RBRC   &trans         &kp CARET  &kp LPAR   &kp RPAR   &kp RBKT   &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  !       │  @       │  #       │  $       │  %       │   │  *       │  -       │  =       │  \       │   :      │
-            HRML(EXCL,  AT,        HASH,     DLLR)       PRCNT         &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH   &kp COLON
+            HRML(EXCL,  AT,        HASH,     DLLR)      &kp PRCNT      &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH   &kp COLON
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  ~       │          │          │          │          │   │  &       │  _       │  +       │  │       │          │
            &kp TILDE &accent_e_aig &accent_e_gr &accent_a_gr &trans    &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
